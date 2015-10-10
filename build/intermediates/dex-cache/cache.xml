@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-b2d1bfe12a7140fc3718a5d017b0259ab4be30fd.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-a7201f7fd2e4e138828a0ab8b16751b9eaf417d0.jar" />
+    </item>
+    <item
+        jar="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\pre-dexed\debug\classes-a005a25870b09ef940ec9f3bcfcee9d62baebfb9.jar" />
+    </item>
+    <item
+        jar="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\xiaobo\android\androidStuido\xiaobo\app\build\intermediates\pre-dexed\debug\classes-8eb7946056bf46a8b45f62f895e772d8af815416.jar" />
+    </item>
+
+</items>
